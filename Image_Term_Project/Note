@@ -1,0 +1,6 @@
+step 1	Image Acquisition & Pre-processing
+step 2	Noise Reduction
+step 3	Contrast Enhancement
+step 4	Rib Segmentation (Feature Extraction)
+step 5	ROI Masking
+step 6	Rib Suppression (Fading)
